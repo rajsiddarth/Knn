@@ -1,7 +1,3 @@
 # Knn
-Algorithm for Knn 
-fdssdscasdasjhbidvsjdn
-vdfvs
-dvs
-d'f
-sdsds
+Algorithm for Knn using Bank data set
+
