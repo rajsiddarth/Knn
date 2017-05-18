@@ -1,7 +1,10 @@
 # Knn
 Application for Knn algorithm using Bank data set
-# Building Knn classification model predicting whether the customer is going to default on loan or not
-Two implementations of Knn are shown, one using default euclidean distance and the other using value difference as distance measure
+
+# Classification models using Knn algorithm.
+#Predict whether the customer is going to default on loan or not
+#Two implementations of Knn are shown, one using default euclidean distance and the other using value difference as distance measure
+for categorical variables
 
 Variable Description:
 ID: Customer ID
@@ -25,7 +28,6 @@ Mortgage: Value of mortgage if any $000
 Securities Account: Does the customer have a securities account with the bank?
 
 CD Account:Does the customer have a certificate of deposit account with the bank?
-
 
 Online : Does the customer use internet banking facilities?
 
