@@ -5,7 +5,8 @@
   *Two implementations of Knn are shown, one using default euclidean distance and the other using value difference measure as a type of      distance measure for categorical variables*
 
 
-Variable Description:
+Variable Description of Bank Dataset:
+
 ID: Customer ID
 
 Age: Customer Age
