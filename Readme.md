@@ -1,12 +1,12 @@
-# Knn
-Application for Knn algorithm using Bank data set
+# Implementation of K-Nearest Neighbour algorithm
 
-# Classification models using Knn algorithm.
-#Predict whether the customer is going to default on loan or not
-#Two implementations of Knn are shown, one using default euclidean distance and the other using value difference as distance measure
-for categorical variables
+ *Objective* :Classification models using Knn algorithm to predict whether the customer is going to default on loan or not
 
-Variable Description:
+  *Two implementations of Knn are shown, one using default euclidean distance and the other using value difference measure as a type of      distance measure for categorical variables*
+
+
+Variable Description of Bank Dataset:
+
 ID: Customer ID
 
 Age: Customer Age
