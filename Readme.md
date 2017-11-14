@@ -1,4 +1,4 @@
-# Implementation of K-Nearest Neighbour Algorithm using R and Python
+# Implementation of K-Nearest Neighbour Algorithm 
 
 ## Dataset
 The dataset is provided by a bank with variable descriptions as mentioned below. 
@@ -33,19 +33,14 @@ Personal Loan : Did the customer default on the loan or not ?
  
  ## Project_1
  By using the bank data set we predict the income of the customer based on other independent variables .We estimate the income using KNN 
- regression approach.We check for accuracy of our predictions for various k-values(1,3,5,7) and select the K which gives us the lowest  
- Mean Average Percentage error.
+ regression approach provided by **FNN library** in R.We check for accuracy of our predictions for various k-values(1,3,5,7) and select   the K which gives us the lowest Mean Average Percentage error.
  
- 
- 
- 
- 
- 
- 
- *Objective* :Classification models using Knn algorithm to predict whether the customer is going to default on loan or not
+ ## Project_2
+  The objective of the project is to build a classification model using Knn algorithm to predict whether the customer is going to       default on loan or not. I built the models using sklearn in Python and also libraries in R.The implentations in R and Python as shown using the default distance measures.
+  
+ ## Project_3
 
-  *Two implementations of Knn are shown, one using default euclidean distance and the other using value difference measure as a type of      distance measure for categorical variables*
-
+  
 
 
 
