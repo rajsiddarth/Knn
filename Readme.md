@@ -39,7 +39,7 @@ Personal Loan : Did the customer default on the loan or not ?
   The objective of the project is to build a classification model using Knn algorithm to predict whether the customer is going to       default on loan or not. I built the models using sklearn in Python and also libraries in R.The implentations in R and Python as shown using the default distance measures.
   
  ## Project_3
-
+  Project_3 is based on Project_2 but instead of using the default distance measures, i implemented **value difference measure** as a measure of distance for categorical variables.alue Difference Metric (VDM) is one of the widely used distance metrics for nominal attributes.
   
 
 
